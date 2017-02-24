@@ -1,3 +1,4 @@
+# add comments
 directions = ['N','E','S','W'] 
 movement = {'N': (0,1), 'E': (1,0), 'S': (0,-1), 'W':(-1,0)}
 commands = {'L': 'turn_left', 'R': 'turn_right', 'M': 'move'}
